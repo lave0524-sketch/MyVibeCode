@@ -1,0 +1,2 @@
+# Python 桌面时钟
+# tkinter 为 Python 自带库，无需额外安装
